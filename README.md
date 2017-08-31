@@ -6,6 +6,8 @@ Javascript Blocks Editor: https://makecode.microbit.org/
 
 Python Editor: http://python.microbit.org/
 
+Technical Details: http://tech.microbit.org/
+
 # Microsoft Makecode
 
 https://makecode.com/
@@ -25,6 +27,14 @@ http://lancaster-university.github.io/microbit-docs
 * https://developer.mbed.org/platforms/Microbit/
 * https://developer.mbed.org/teams/microbit/
 * https://developer.mbed.org/teams/Lancaster-University/
+
+# Reset Original Program
+
+https://support.microbit.org/support/solutions/articles/19000021613-first-experience-demo-program
+
+# Update DAPLink Firmware
+
+https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/
 
 # Micellaneous
 
