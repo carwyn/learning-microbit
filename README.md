@@ -22,9 +22,9 @@ http://lancaster-university.github.io/microbit-docs
 
 # Arm MBED
 
-https://developer.mbed.org/platforms/Microbit/
-https://developer.mbed.org/teams/microbit/
-https://developer.mbed.org/teams/Lancaster-University/
+* https://developer.mbed.org/platforms/Microbit/
+* https://developer.mbed.org/teams/microbit/
+* https://developer.mbed.org/teams/Lancaster-University/
 
 # Linux Notes
 
