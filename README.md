@@ -26,8 +26,8 @@ http://lancaster-university.github.io/microbit-docs
 * https://developer.mbed.org/teams/microbit/
 * https://developer.mbed.org/teams/Lancaster-University/
 
-# Linux Notes
+# Micellaneous
 
-https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/
-
+* https://microworldtour.github.io/
+* https://fedoramagazine.org/learn-programming-using-micro-bit-fedora/
 
